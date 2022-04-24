@@ -126,9 +126,16 @@
   height: 100%;
 
 }
-.image-grid-up{
+.Feedback{
   color:black;
+  margin-right: 99px;
   
+  
+}
+.f1{
+  background-color:rgba(255, 255, 255, 0.7);
+  border-radius: 15px;
+  width: 100px;
 }
 .image-grid-down{
   color:black;
